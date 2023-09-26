@@ -37,5 +37,7 @@ const b = 10
 
 
 ### Videos del curso Dojos 2023 - Mi perfil de Github
-![https://www.youtube.com/watch?v=omUfKP9GaGQ](test_video.png)()
 
+[![becalos devf muestra](https://img.youtube.com/vi/omUfKP9GaGQ/default.jpg)](https://youtu.be/omUfKP9GaGQ)
+
+<!-- [![alt](imagen)](url del video) -->
