@@ -1,43 +1,41 @@
-# Hola, mundo 🌐
+# Hola Bienvenido 👋🏼🖖🏼
 
-## Sociales
+## Soy un desarrollor web full stack
 ![Discord](https://img.shields.io/discord/718518515279069316?style=social&label=Discord&logo=discord)
-![GitHub Followers](https://img.shields.io/github/followers/carlosDevf?style=social)
+
+Me especializo en JavaScript, mi lenguaje favorito, y tengo un sólido dominio de tecnologías clave como React, Node.js y Go. He contribuido de manera destacada en proyectos para la empresa de paquetería 99minutos. Además, soy Sensei en DevF, donde imparto clases y mentorías de JavaScript y React.
+
+Mi objetivo principal es continuar mi crecimiento como desarrollador, trabajando en soluciones que aborden problemas del mundo real y ayuden a transformar la vida de las personas, permitiéndoles ingresar al mundo laboral como desarrolladores.
 
 
 ## Lenguajes y herramientas favoritas: 🔩🔩 
-- ![GO](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)
+- ![GO](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
+- ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+- ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
 
 - - -
 
+## En este repositorio encontrarás:
 
-````javascript
+#### Repositorios para aprender 🦉🦉:
 
-const b = 10
-
-````
-
-- - - 
-
-***Esto es divertido***
-
-> Creando markdowns en Devf
-
-<!-- links -->
-[Ir al sitio](http://google.com)
-
-<!-- alt: la informacion extra -->
-![imagen del primer curos](./test-cap.png)
-
-- - -
-
-### Mis repositorios más interesantes ⭐⭐⭐
-
-- # [22 ideas para aprender](https://github.com/cchavezmx/3-WEB-PROTALENTO) 🧠
+- [22  Ideas de proyectos para comenzar](https://github.com/cchavezmx/3-WEB-PROTALENTO).
+- [Recursos para aprender SQL](https://github.com/cchavezmx/Aprendiendo-SQL).
+- [Ejercicios de Javasript](https://github.com/cchavezmx/JAVASCRIPT---EJERCICIOS)
 
 
-### Videos del curso Dojos 2023 - Mi perfil de Github
+#### Repositorios avanzados 🦾🦾:
+- [Rust Primeros pasos](https://github.com/cchavezmx/Rust---101)
+- [Go + GRpc](https://github.com/cchavezmx?tab=repositories&q=go&type=&language=&sort=)
+- [Electron Primeros pasos](https://github.com/cchavezmx?tab=repositories&q=electron&type=&language=&sort=)
 
-[![becalos devf muestra](./test_video.png)](https://youtu.be/omUfKP9GaGQ)
+#### Inteligencia artificial 🧠🧠:
+- [Implentanción con CHATGPT](https://github.com/cchavezmx/code-mirror)
 
-<!-- [![alt](imagen)](url del video) -->
+### Videos DEVF
+
+<!-- colocar primer video de DOJOS -->
+![[]()](/dojo-github.png)
+- video 1
+- video 2
