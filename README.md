@@ -1,7 +1,6 @@
 # Hola Bienvenido 👋🏼🖖🏼
 
-## Soy un desarrollor web full stack
-![Discord](https://img.shields.io/discord/718518515279069316?style=social&label=Discord&logo=discord)
+## Desarrollador WEB
 
 Me especializo en JavaScript, mi lenguaje favorito, y tengo un sólido dominio de tecnologías clave como React, Node.js y Go. He contribuido de manera destacada en proyectos para la empresa de paquetería 99minutos. Además, soy Sensei en DevF, donde imparto clases y mentorías de JavaScript y React.
 
@@ -36,6 +35,6 @@ Mi objetivo principal es continuar mi crecimiento como desarrollador, trabajando
 ### Videos DEVF
 
 <!-- colocar primer video de DOJOS -->
-![[]()](/dojo-github.png)
-- video 1
-- video 2
+![banner-dojos](dojo-github.png)
+- video 1 - Creando perfil y primer repositorio
+- video 2 - Creando un repositorio con README.md
